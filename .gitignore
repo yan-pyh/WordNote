@@ -1,0 +1,11 @@
+# Obsidian 工作区状态（每次打开都会变，忽略以避免 Git 冲突）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 回收站
+.trash/

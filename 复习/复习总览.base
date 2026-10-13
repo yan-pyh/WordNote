@@ -1,0 +1,21 @@
+# 复习总览
+# Obsidian 自带数据库（核心插件 Databases/Bases）
+# 用 Obsidian 打开后会自动渲染成表格；在 UI 里可继续加筛选/视图
+
+filters:
+  and:
+    - file.inFolder("10-words")
+
+views:
+  - type: table
+    name: 全部单词
+    order:
+      - next_review
+
+  - type: table
+    name: 学习中
+    filters:
+      and:
+        - 'status = "learning"'
+    order:
+      - next_review
