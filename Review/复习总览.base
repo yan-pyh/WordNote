@@ -1,0 +1,33 @@
+filters:
+  and:
+    - file.inFolder("Words")
+views:
+  - type: table
+    name: 全部单词
+    order:
+      - word
+      - pos
+      - definition
+      - status
+      - tags
+      - next_review
+  - type: table
+    name: 学习中
+    filters:
+      and:
+        - status = "learning"
+    order:
+      - word
+      - pos
+      - definition
+      - next_review
+  - type: table
+    name: 新词
+    filters:
+      and:
+        - status = "new"
+    order:
+      - word
+      - pos
+      - definition
+      - next_review

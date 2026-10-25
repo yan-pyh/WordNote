@@ -1,0 +1,9 @@
+{
+  "daily_target": 35,
+  "new_cap": 35,
+  "words_dir": "Words",
+  "review_dir": "Review",
+  "flashcard_tag": "flashcards",
+  "order": "created_then_name",
+  "today_note": "今日复习.md"
+}

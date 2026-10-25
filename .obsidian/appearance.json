@@ -1,5 +1,9 @@
 {
   "theme": "system",
   "showViewHeader": true,
-  "accentColor": "#ee96d2"
+  "accentColor": "#ee96d2",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "word-card"
+  ]
 }

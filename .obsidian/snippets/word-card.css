@@ -1,0 +1,15 @@
+/* WordNote · 单词卡片字号加大（桌面 / 手机 / 平板通用） */
+
+.sr-card-container .sr-content {
+  font-size: calc(var(--font-text-size, 16px) * 1.4);
+  line-height: 1.9;
+}
+
+.sr-card-container .sr-content p {
+  margin: 0.25em 0;
+}
+
+.sr-show-answer-button,
+.sr-response-button {
+  font-size: calc(var(--font-text-size, 16px) * 1.15);
+}
