@@ -3,7 +3,7 @@ word: pipeline into
 phonetic: /ˈpaɪplaɪn ˈɪntuː/
 pos: phr.
 definition: 进入…的通道；通往…的途径
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

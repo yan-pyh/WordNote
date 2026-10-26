@@ -3,7 +3,7 @@ word: perfect timing
 phonetic: /ˈpɜːfɪkt ˈtaɪmɪŋ/
 pos: phr.
 definition: 恰到好处的时机；最佳时机
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

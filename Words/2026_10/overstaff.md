@@ -3,7 +3,7 @@ word: overstaff
 phonetic: /ˌəʊvəˈstɑːf/
 pos: v.
 definition: 使人员过多；配备过多员工；（overstaffed）人员过剩的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19
