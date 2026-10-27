@@ -50,4 +50,4 @@ the baby boomer generation：婴儿潮一代
 &nbsp;
 baby boomers：婴儿潮一代的人们
 例：Baby boomers make up a large part of the population.（婴儿潮一代在人口中占很大比例。）
-<!--SR:!2026-10-26,1,230-->
+<!--SR:!2026-10-28,2,230-->

@@ -50,4 +50,4 @@ a close/strong bond：紧密的联系
 &nbsp;
 bond with sb：与某人建立亲密关系
 例：He bonded with his teammates quickly.（他很快与队友建立了亲密关系。）
-<!--SR:!2026-10-26,1,210-->
+<!--SR:!2026-10-27,1,190-->

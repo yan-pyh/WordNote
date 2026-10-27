@@ -50,4 +50,4 @@ be admitted to：被…录取；获准进入
 &nbsp;
 gain admission to：获得进入…的资格
 例：Few applicants gain admission to the programme.（很少有申请者能获准进入该项目。）
-<!--SR:!2026-10-26,1,230-->
+<!--SR:!2026-10-27,1,210-->

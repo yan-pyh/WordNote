@@ -44,3 +44,4 @@ the pipeline into a profession：进入某一职业的通道
 &nbsp;
 pipeline of talent：人才输送渠道
 例：The school creates a pipeline of talent for the industry.（这所学校为行业建立了人才输送渠道。）
+<!--SR:!2026-10-29,3,250-->

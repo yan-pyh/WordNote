@@ -3,7 +3,7 @@ word: reside
 phonetic: /rɪˈzaɪd/
 pos: v.
 definition: 居住；存在于；（residency）住院医师培训期；居留权
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

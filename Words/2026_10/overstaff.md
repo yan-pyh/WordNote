@@ -49,3 +49,4 @@ be overstaffed：人员过剩
 &nbsp;
 overstaff a company：使公司人员过多
 例：The company was overstaffed after the merger.（合并后公司人员过多。）
+<!--SR:!2026-10-27,1,230-->

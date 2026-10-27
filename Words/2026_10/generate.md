@@ -49,4 +49,4 @@ generate sth：产生、生成某事物
 &nbsp;
 generative AI：生成式人工智能
 例：Generative AI is changing the way people write.（生成式人工智能正在改变人们的写作方式。）
-<!--SR:!2026-10-26,1,230-->
+<!--SR:!2026-10-28,2,230-->

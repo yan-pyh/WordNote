@@ -3,7 +3,7 @@ word: puzzle
 phonetic: /ˈpʌzl/
 pos: v./n.
 definition: 使困惑；难题；（puzzlement）困惑；迷惑
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

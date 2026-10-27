@@ -3,7 +3,7 @@ word: sense
 phonetic: /sens/
 pos: n.
 definition: 意义；道理；感觉；判断力
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

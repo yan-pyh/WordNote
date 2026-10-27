@@ -3,7 +3,7 @@ word: put subtle shading on
 phonetic: /pʊt ˈsʌtl ˈʃeɪdɪŋ ɒn/
 pos: phr.
 definition: 给…加入细微的区别；使…更有层次
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

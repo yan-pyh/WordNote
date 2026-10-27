@@ -44,4 +44,4 @@ act as an intermediary：充当中间人
 &nbsp;
 without an intermediary：无需中间媒介
 例：The two teams now communicate without an intermediary.（这两个团队现在无需中间人即可沟通。）
-<!--SR:!2026-10-26,1,230-->
+<!--SR:!2026-10-27,1,190-->

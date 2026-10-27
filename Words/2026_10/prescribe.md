@@ -3,7 +3,7 @@ word: prescribe
 phonetic: /prɪˈskraɪb/
 pos: v.
 definition: 开处方；规定；（prescription）处方；药方
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

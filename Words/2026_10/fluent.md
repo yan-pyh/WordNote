@@ -50,4 +50,4 @@ be fluent in a language：某种语言说得很流利
 &nbsp;
 speak fluent English：说一口流利的英语
 例：He speaks fluent English.（他能说一口流利的英语。）
-<!--SR:!2026-10-26,1,230-->
+<!--SR:!2026-10-27,1,210-->

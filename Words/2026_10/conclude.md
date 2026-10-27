@@ -49,4 +49,4 @@ conclude that...：得出结论认为…
 &nbsp;
 conclude with sth：以某事物结束
 例：The speech concluded with a warning.（演讲以一则警告结束。）
-<!--SR:!2026-10-26,1,230-->
+<!--SR:!2026-10-28,2,230-->

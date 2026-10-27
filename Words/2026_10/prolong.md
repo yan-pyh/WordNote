@@ -3,7 +3,7 @@ word: prolong
 phonetic: /prəˈlɒŋ/
 pos: v.
 definition: 延长；拖延
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19
