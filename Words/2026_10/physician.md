@@ -49,4 +49,4 @@ consult a physician：咨询医生；就诊
 &nbsp;
 primary-care physician：初级保健医生
 例：Many people lack a primary-care physician.（许多人没有初级保健医生。）
-<!--SR:!2026-10-27,1,230-->
+<!--SR:!2026-10-28,1,210-->

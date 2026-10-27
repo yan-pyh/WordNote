@@ -44,4 +44,4 @@ mangle a joke/word/quote：把笑话、单词、引语说错或说糟
 &nbsp;
 leave sth mangled：使某物变得面目全非
 例：The report left the argument mangled.（这份报告把论证弄得面目全非。）
-<!--SR:!2026-10-27,1,150-->
+<!--SR:!2026-10-29,2,150-->

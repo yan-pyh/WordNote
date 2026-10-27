@@ -50,4 +50,4 @@ immigrate to a country：移民到某国
 &nbsp;
 immigration policy：移民政策
 例：The government changed its immigration policy.（政府修改了移民政策。）
-<!--SR:!2026-10-27,1,130-->
+<!--SR:!2026-10-28,1,130-->

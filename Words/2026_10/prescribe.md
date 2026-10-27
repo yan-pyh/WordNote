@@ -50,3 +50,4 @@ prescribe medicine：开药
 &nbsp;
 write a prescription：开处方
 例：She wrote a prescription for pain relief.（她开了一张止痛处方。）
+<!--SR:!2026-10-28,1,210-->
