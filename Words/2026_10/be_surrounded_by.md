@@ -50,4 +50,4 @@ be surrounded by/with sth：被某物包围
 &nbsp;
 surround oneself with sb/sth：使自己身边围绕着某人或某物
 例：She surrounded herself with supportive friends.（她身边都是支持她的朋友。）
-<!--SR:!2026-10-28,3,250-->
+<!--SR:!2026-11-05,8,250-->

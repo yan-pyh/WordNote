@@ -44,4 +44,4 @@ have a conversation with sb：与某人交谈
 &nbsp;
 conversation mode：对话模式
 例：Turn on conversation mode before you speak.（开口前先打开对话模式。）
-<!--SR:!2026-10-28,2,230-->
+<!--SR:!2026-11-02,5,230-->

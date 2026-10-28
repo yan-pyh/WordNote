@@ -44,4 +44,4 @@ multiple + 复数名词：多个…；多种…
 &nbsp;
 multiple times：多次
 例：He checked the result multiple times.（他多次检查结果。）
-<!--SR:!2026-10-28,1,170-->
+<!--SR:!2026-10-30,2,170-->

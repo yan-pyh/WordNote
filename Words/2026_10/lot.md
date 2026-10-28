@@ -44,4 +44,4 @@ this/that lot：这批人；那群人
 &nbsp;
 a lot of：大量的；许多
 例：A lot of people use translation apps.（许多人使用翻译应用。）
-<!--SR:!2026-10-28,3,250-->
+<!--SR:!2026-11-08,11,270-->

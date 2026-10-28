@@ -49,4 +49,4 @@ artificial intelligence：人工智能
 &nbsp;
 artificially low：人为压低的
 例：The price was kept artificially low.（价格被人为压低。）
-<!--SR:!2026-10-28,2,230-->
+<!--SR:!2026-11-02,5,230-->

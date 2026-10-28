@@ -51,4 +51,4 @@ puzzle over/about sth：苦苦思索某事
 &nbsp;
 a puzzle to sb：令某人费解的事
 例：His decision was a puzzle to everyone.（他的决定令所有人费解。）
-<!--SR:!2026-10-28,1,230-->
+<!--SR:!2026-10-29,1,210-->

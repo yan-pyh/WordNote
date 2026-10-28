@@ -44,4 +44,4 @@ be multilingual：会说多种语言
 &nbsp;
 a multilingual society：多语社会
 例：Singapore is a multilingual society.（新加坡是一个多语社会。）
-<!--SR:!2026-10-28,1,130-->
+<!--SR:!2026-10-29,1,130-->

@@ -49,4 +49,4 @@ work as a nurse practitioner：担任执业护士
 &nbsp;
 be treated by a nurse practitioner：由执业护士诊治
 例：Many patients are treated by nurse practitioners.（许多患者由执业护士诊治。）
-<!--SR:!2026-10-28,3,250-->
+<!--SR:!2026-10-30,2,230-->

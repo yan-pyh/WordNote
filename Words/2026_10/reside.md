@@ -51,4 +51,4 @@ reside in：居住于；存在于
 &nbsp;
 a residency programme：住院医师培训项目
 例：She is completing a residency programme in surgery.（她正在完成外科住院医师培训项目。）
-<!--SR:!2026-10-28,1,210-->
+<!--SR:!2026-10-29,1,190-->

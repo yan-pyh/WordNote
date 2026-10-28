@@ -50,4 +50,4 @@ endure hardship/pain：忍受艰难、痛苦
 &nbsp;
 endurance training：耐力训练
 例：Endurance training takes time.（耐力训练需要时间。）
-<!--SR:!2026-10-28,1,170-->
+<!--SR:!2026-10-29,1,130-->

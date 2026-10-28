@@ -44,4 +44,4 @@ make sense：讲得通；有道理
 &nbsp;
 a sense of sth：某种感觉或意识
 例：She has a strong sense of responsibility.（她有很强的责任感。）
-<!--SR:!2026-10-28,1,230-->
+<!--SR:!2026-10-30,2,230-->
