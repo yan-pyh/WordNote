@@ -3,7 +3,7 @@ word: candidate
 phonetic: /ˈkændɪdət/
 pos: n.
 definition: 候选人；申请者；应试者
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

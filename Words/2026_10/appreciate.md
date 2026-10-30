@@ -3,7 +3,7 @@ word: appreciate
 phonetic: /əˈpriːʃieɪt/
 pos: v.
 definition: 升值；欣赏；感激；理解
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

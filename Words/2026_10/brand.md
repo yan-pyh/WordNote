@@ -3,7 +3,7 @@ word: brand
 phonetic: /brænd/
 pos: n./v.
 definition: 品牌；给…打上烙印；（branded）品牌化的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

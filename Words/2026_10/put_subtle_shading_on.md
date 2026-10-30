@@ -44,4 +44,4 @@ put subtle shading on sth：给某事物加入细微区别或色彩
 &nbsp;
 put a different shading on sth：使某事物呈现出不同意味
 例：That detail puts a different shading on the story.（那个细节让这个故事有了不同的意味。）
-<!--SR:!2026-10-29,1,210-->
+<!--SR:!2026-10-30,1,190-->

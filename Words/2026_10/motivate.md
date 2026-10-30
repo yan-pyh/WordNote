@@ -50,4 +50,4 @@ motivate sb to do sth：激励某人做某事
 &nbsp;
 a motivator for sth：做某事的动力
 例：Curiosity is a powerful motivator for learning.（好奇心是学习的强大动力。）
-<!--SR:!2026-10-29,2,210-->
+<!--SR:!2026-11-02,4,210-->

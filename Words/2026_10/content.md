@@ -3,7 +3,7 @@ word: content
 phonetic: /ˈkɒntent/
 pos: n./adj.
 definition: 内容；主题；满足的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

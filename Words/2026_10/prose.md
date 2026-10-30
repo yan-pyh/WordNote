@@ -44,4 +44,4 @@ write prose：写散文；进行散文写作
 &nbsp;
 prose style：行文风格；散文风格
 例：The novel has a spare prose style.（这部小说有着简练的行文风格。）
-<!--SR:!2026-10-29,1,170-->
+<!--SR:!2026-10-31,2,170-->

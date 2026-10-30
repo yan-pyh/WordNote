@@ -44,4 +44,4 @@ surpass expectations：超出预期
 &nbsp;
 surpass sb in sth：在某方面超过某人
 例：She surpasses her rivals in experience.（她在经验上胜过对手。）
-<!--SR:!2026-10-29,1,190-->
+<!--SR:!2026-10-31,2,190-->

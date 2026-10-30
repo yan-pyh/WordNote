@@ -44,4 +44,4 @@ immerse oneself in sth：使自己沉浸于某事物
 &nbsp;
 be immersed in sth：专注于、沉浸于某事物
 例：He was immersed in his work.（他专注于工作。）
-<!--SR:!2026-10-29,1,130-->
+<!--SR:!2026-10-30,1,130-->

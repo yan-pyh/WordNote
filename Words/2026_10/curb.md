@@ -44,4 +44,4 @@ curb inflation：遏制通货膨胀
 &nbsp;
 curb the spread of sth：遏制某事物的扩散
 例：New rules aim to curb the spread of misinformation.（新规旨在遏制虚假信息的传播。）
-<!--SR:!2026-10-29,1,130-->
+<!--SR:!2026-10-30,1,130-->

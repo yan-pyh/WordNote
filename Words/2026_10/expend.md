@@ -50,4 +50,4 @@ at the expense of：以…为代价
 &nbsp;
 expenditure on sth：在…上的支出
 例：Public expenditure on health care has risen sharply.（公共医疗支出大幅上升。）
-<!--SR:!2026-10-29,1,190-->
+<!--SR:!2026-10-31,2,190-->

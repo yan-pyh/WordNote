@@ -3,7 +3,7 @@ word: vacancy
 phonetic: /ˈveɪkənsi/
 pos: n.
 definition: 空缺；空职；空房
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

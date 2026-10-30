@@ -49,4 +49,4 @@ an acute problem：严重的问题
 &nbsp;
 be acutely aware of sth：深刻意识到某事
 例：She is acutely aware of the risk.（她深刻意识到这一风险。）
-<!--SR:!2026-10-29,1,190-->
+<!--SR:!2026-10-31,2,190-->

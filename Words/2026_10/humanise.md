@@ -51,4 +51,4 @@ humanise sth：使某事物更有人情味或人文性
 &nbsp;
 humanise technology：让技术更人性化
 例：Designers try to humanise technology.（设计师努力让技术更人性化。）
-<!--SR:!2026-10-29,2,210-->
+<!--SR:!2026-11-02,4,210-->

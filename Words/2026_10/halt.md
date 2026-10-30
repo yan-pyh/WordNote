@@ -49,4 +49,4 @@ come to a halt：停下来
 &nbsp;
 halting speech：结结巴巴、断断续续的讲话
 例：He answered in halting English.（他用结结巴巴的英语回答。）
-<!--SR:!2026-10-29,2,210-->
+<!--SR:!2026-10-30,1,190-->

@@ -3,7 +3,7 @@ word: vast
 phonetic: /vɑːst/
 pos: adj.
 definition: 巨大的；广阔的；大量的；（vastly）极大地；远远地
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-19

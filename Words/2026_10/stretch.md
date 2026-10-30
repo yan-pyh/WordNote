@@ -44,4 +44,4 @@ stretch one's mind(s)：拓展思维
 &nbsp;
 stretch into/to sth：延伸到某处
 例：The desert stretches into the distance.（沙漠一直延伸到远方。）
-<!--SR:!2026-10-29,1,210-->
+<!--SR:!2026-10-30,1,190-->

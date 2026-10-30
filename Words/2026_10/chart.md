@@ -3,7 +3,7 @@ word: chart
 phonetic: /tʃɑːt/
 pos: v./n.
 definition: 记录；绘制；梳理；图表；排行榜
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

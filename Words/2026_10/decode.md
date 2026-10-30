@@ -44,4 +44,4 @@ decode a message：解读信息；破译消息
 &nbsp;
 decode text：解读文本
 例：Beginners may need help to decode difficult text.（初学者可能需要帮助来解读难懂的文本。）
-<!--SR:!2026-10-29,2,210-->
+<!--SR:!2026-11-02,4,210-->

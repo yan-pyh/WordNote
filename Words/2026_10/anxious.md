@@ -3,7 +3,7 @@ word: anxious
 phonetic: /ˈæŋkʃəs/
 pos: adj.
 definition: 焦虑的；担忧的；渴望的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25
