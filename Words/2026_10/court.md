@@ -3,7 +3,7 @@ word: court
 phonetic: /kɔːt/
 pos: v./n.
 definition: 讨好；追求；力争；法庭；球场
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

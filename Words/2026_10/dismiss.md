@@ -3,7 +3,7 @@ word: dismiss
 phonetic: /dɪsˈmɪs/
 pos: v.
 definition: 轻视；不予考虑；解雇；驳回
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

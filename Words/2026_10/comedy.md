@@ -50,3 +50,4 @@ a comedy show：喜剧节目
 &nbsp;
 black comedy：黑色喜剧
 例：The film is a dark comedy.（这部电影是一部黑色喜剧。）
+<!--SR:!2026-11-03,2,230-->

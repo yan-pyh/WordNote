@@ -3,7 +3,7 @@ word: crop
 phonetic: /krɒp/
 pos: n./v.
 definition: 一批；农作物；收成；剪短
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

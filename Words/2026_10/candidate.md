@@ -50,3 +50,4 @@ a political candidate：政治候选人
 &nbsp;
 candidate for sth：某职位的候选人
 例：She is a candidate for the position.（她是该职位的候选人。）
+<!--SR:!2026-11-02,1,210-->

@@ -3,7 +3,7 @@ word: deposit
 phonetic: /dɪˈpɒzɪt/
 pos: n./v.
 definition: 定金；首付；存款；沉积物；存放
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

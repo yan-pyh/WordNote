@@ -49,3 +49,4 @@ vast amounts of：大量的
 &nbsp;
 vastly different：截然不同
 例：The two systems are vastly different.（这两种制度截然不同。）
+<!--SR:!2026-11-03,2,230-->

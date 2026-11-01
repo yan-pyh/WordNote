@@ -3,7 +3,7 @@ word: dip
 phonetic: /dɪp/
 pos: v./n.
 definition: 下降；下跌；浸；蘸
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25
