@@ -49,4 +49,4 @@ lavishly paid：薪酬丰厚
 &nbsp;
 lavish spending：大手大脚的开支
 例：The project involved lavish spending.（这个项目花费巨大。）
-<!--SR:!2026-11-03,3,150-->
+<!--SR:!2026-11-08,5,150-->

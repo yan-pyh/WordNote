@@ -3,7 +3,7 @@ word: niche
 phonetic: /niːʃ/
 pos: n./adj.
 definition: 小众领域；合适的位置；小众的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

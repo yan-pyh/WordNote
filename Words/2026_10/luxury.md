@@ -3,7 +3,7 @@ word: luxury
 phonetic: /ˈlʌkʃəri/
 pos: n./adj.
 definition: 奢华；奢侈品；豪华的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

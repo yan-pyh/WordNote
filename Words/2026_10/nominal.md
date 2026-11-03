@@ -3,7 +3,7 @@ word: nominal
 phonetic: /ˈnɒmɪnl/
 pos: adj.
 definition: 名义上的；（金额）很小的；名义的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

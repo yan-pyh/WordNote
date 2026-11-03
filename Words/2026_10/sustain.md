@@ -49,4 +49,4 @@ sustain growth/interest：维持增长、兴趣
 &nbsp;
 sustained effort：持续的努力
 例：Success requires sustained effort.（成功需要持续的努力。）
-<!--SR:!2026-11-03,2,170-->
+<!--SR:!2026-11-06,3,170-->

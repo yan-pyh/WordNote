@@ -3,7 +3,7 @@ word: mortgage
 phonetic: /ˈmɔːɡɪdʒ/
 pos: n./v.
 definition: 房屋抵押贷款；抵押
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

@@ -3,7 +3,7 @@ word: exclude
 phonetic: /ɪkˈskluːd/
 pos: v.
 definition: 排除；不包括；拒绝接纳
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

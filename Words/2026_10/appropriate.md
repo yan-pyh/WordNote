@@ -44,4 +44,4 @@ appropriate for/to sth：适合于某事物
 &nbsp;
 an appropriate response：恰当的回应
 例：She gave an appropriate response to the question.（她对这个问题作出了恰当回应。）
-<!--SR:!2026-11-03,2,170-->
+<!--SR:!2026-11-06,3,170-->

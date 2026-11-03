@@ -3,7 +3,7 @@ word: harvest
 phonetic: /ˈhɑːvɪst/
 pos: v./n.
 definition: 收割；获取；收获
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

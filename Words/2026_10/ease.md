@@ -44,4 +44,4 @@ ease the pressure：缓解压力
 &nbsp;
 ease sb's pain：减轻某人的痛苦
 例：The medicine helped ease her pain.（这种药帮助减轻了她的疼痛。）
-<!--SR:!2026-11-03,3,170-->
+<!--SR:!2026-11-08,5,170-->

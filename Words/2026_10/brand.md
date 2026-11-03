@@ -50,4 +50,4 @@ a well-known brand：知名品牌
 &nbsp;
 branded products：品牌产品
 例：The store sells branded products at low prices.（这家店以低价出售品牌产品。）
-<!--SR:!2026-11-03,2,230-->
+<!--SR:!2026-11-08,5,230-->

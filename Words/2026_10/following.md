@@ -3,7 +3,7 @@ word: following
 phonetic: /ˈfɒləʊɪŋ/
 pos: n.
 definition: 粉丝群；追随者；关注
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

@@ -3,7 +3,7 @@ word: optimistic
 phonetic: /ˌɒptɪˈmɪstɪk/
 pos: adj.
 definition: 乐观的；乐观主义的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

@@ -3,7 +3,7 @@ word: mindless
 phonetic: /ˈmaɪndləs/
 pos: adj.
 definition: 无脑的；盲目的；不需思考的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

@@ -3,7 +3,7 @@ word: influence
 phonetic: /ˈɪnfluəns/
 pos: v./n.
 definition: 影响；影响力；（influencer）网红；有影响力的人
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

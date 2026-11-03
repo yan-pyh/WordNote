@@ -3,7 +3,7 @@ word: outcome
 phonetic: /ˈaʊtkʌm/
 pos: n.
 definition: 结果；后果
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

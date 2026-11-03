@@ -44,4 +44,4 @@ a dwindling pursuit：日渐式微的追求
 &nbsp;
 dwindle away：逐渐减少直至消失
 例：Public interest slowly dwindled away.（公众兴趣逐渐消退。）
-<!--SR:!2026-11-03,2,170-->
+<!--SR:!2026-11-06,3,170-->
