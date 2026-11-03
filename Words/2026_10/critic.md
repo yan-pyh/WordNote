@@ -52,3 +52,4 @@ a film critic：影评人
 &nbsp;
 a critic of sth：…的批评者
 例：She is a critic of the new policy.（她是这项新政策的批评者。）
+<!--SR:!2026-11-03,1,230-->

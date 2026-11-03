@@ -51,3 +51,4 @@ rates dip：利率下降
 &nbsp;
 dip into：浏览；动用（存款）
 例：She dipped into her savings to pay the bill.（她动用了存款来支付账单。）
+<!--SR:!2026-11-03,1,230-->

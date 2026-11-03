@@ -44,4 +44,4 @@ be inherent in sth：内在于某事物中
 &nbsp;
 inherent value：内在价值
 例：The experience has inherent value.（这段经历本身就有内在价值。）
-<!--SR:!2026-11-02,1,130-->
+<!--SR:!2026-11-03,1,130-->
