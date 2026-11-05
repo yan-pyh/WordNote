@@ -3,7 +3,7 @@ word: storyline
 phonetic: /ˈstɔːrilaɪn/
 pos: n.
 definition: 故事情节；故事线
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

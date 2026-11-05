@@ -3,7 +3,7 @@ word: post about
 phonetic: /pəʊst əˈbaʊt/
 pos: phr.
 definition: 发布关于…的内容
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

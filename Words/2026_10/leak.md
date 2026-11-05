@@ -3,7 +3,7 @@ word: leak
 phonetic: /liːk/
 pos: v./n.
 definition: 泄露；泄漏；渗漏
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

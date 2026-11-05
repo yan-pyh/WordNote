@@ -3,7 +3,7 @@ word: usually female
 phonetic: /ˈjuːʒuəli ˈfiːmeɪl/
 pos: phr.
 definition: 通常为女性
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

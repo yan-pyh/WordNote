@@ -3,7 +3,7 @@ word: property
 phonetic: /ˈprɒpəti/
 pos: n.
 definition: 房产；财产；特性
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

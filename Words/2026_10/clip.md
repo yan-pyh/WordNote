@@ -3,7 +3,7 @@ word: clip
 phonetic: /klɪp/
 pos: n./v.
 definition: 片段；夹子；剪辑；夹住
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

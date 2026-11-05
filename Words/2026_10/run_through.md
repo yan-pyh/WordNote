@@ -3,7 +3,7 @@ word: run through
 phonetic: /rʌn θruː/
 pos: phr.
 definition: 贯穿；快速浏览；排练
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

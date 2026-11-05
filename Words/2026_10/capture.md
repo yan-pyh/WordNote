@@ -3,7 +3,7 @@ word: capture
 phonetic: /ˈkæptʃə(r)/
 pos: v./n.
 definition: 捕捉；吸引；俘获；记录
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

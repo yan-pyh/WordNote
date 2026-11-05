@@ -3,7 +3,7 @@ word: accompany
 phonetic: /əˈkʌmpəni/
 pos: v.
 definition: 陪同；伴随；为…伴奏
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

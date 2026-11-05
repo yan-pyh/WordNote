@@ -3,7 +3,7 @@ word: predict
 phonetic: /prɪˈdɪkt/
 pos: v.
 definition: 预测；预言
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

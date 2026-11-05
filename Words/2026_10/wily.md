@@ -3,7 +3,7 @@ word: wily
 phonetic: /ˈwaɪli/
 pos: adj.
 definition: 狡猾的；狡黠的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

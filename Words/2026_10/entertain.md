@@ -51,4 +51,4 @@ entertain guests：招待客人
 &nbsp;
 an entertaining book：一本有趣的书
 例：It is an entertaining and informative book.（这是一本既有娱乐性又有知识性的书。）
-<!--SR:!2026-11-05,2,230-->
+<!--SR:!2026-11-10,5,230-->

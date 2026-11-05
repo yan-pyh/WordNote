@@ -3,7 +3,7 @@ word: trick
 phonetic: /trɪk/
 pos: v./n.
 definition: 欺骗；戏弄；诡计
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

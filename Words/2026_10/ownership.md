@@ -3,7 +3,7 @@ word: ownership
 phonetic: /ˈəʊnəʃɪp/
 pos: n.
 definition: 所有权；产权
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

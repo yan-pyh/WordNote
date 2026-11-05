@@ -3,7 +3,7 @@ word: tumble
 phonetic: /ˈtʌmbl/
 pos: v./n.
 definition: 暴跌；跌倒；翻滚
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

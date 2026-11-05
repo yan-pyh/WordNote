@@ -3,7 +3,7 @@ word: rent
 phonetic: /rent/
 pos: v./n.
 definition: 租金；租用；出租；（renter）租客；（rental）租赁的；租金
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

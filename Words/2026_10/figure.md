@@ -3,7 +3,7 @@ word: figure
 phonetic: /ˈfɪɡə(r)/
 pos: n./v.
 definition: 数字；人物；身材；认为；计算
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

@@ -3,7 +3,7 @@ word: vehement
 phonetic: /ˈviːəmənt/
 pos: adj.
 definition: 激烈的；强烈的；情绪激动的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

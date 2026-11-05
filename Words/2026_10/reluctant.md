@@ -3,7 +3,7 @@ word: reluctant
 phonetic: /rɪˈlʌktənt/
 pos: adj.
 definition: 不情愿的；勉强的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

@@ -51,3 +51,4 @@ weather forecast：天气预报
 &nbsp;
 forecast growth：预测增长
 例：Economists forecast stronger growth next year.（经济学家预测明年增长会更强劲。）
+<!--SR:!2026-11-07,3,250-->

@@ -3,7 +3,7 @@ word: rise
 phonetic: /raɪz/
 pos: v./n.
 definition: 上升；兴起；增加
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

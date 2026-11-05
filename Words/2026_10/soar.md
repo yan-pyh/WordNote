@@ -3,7 +3,7 @@ word: soar
 phonetic: /sɔː(r)/
 pos: v.
 definition: 猛增；高飞；翱翔
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

@@ -3,7 +3,7 @@ word: reputation
 phonetic: /ˌrepjuˈteɪʃn/
 pos: n.
 definition: 名声；声誉
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

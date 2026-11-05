@@ -3,7 +3,7 @@ word: rhythm
 phonetic: /ˈrɪðəm/
 pos: n.
 definition: 节奏；韵律；规律
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

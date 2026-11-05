@@ -3,7 +3,7 @@ word: broadcast
 phonetic: /ˈbrɔːdkɑːst/
 pos: v./n.
 definition: 广播；播放；传播
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

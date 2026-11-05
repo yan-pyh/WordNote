@@ -3,7 +3,7 @@ word: explode
 phonetic: /ɪkˈspləʊd/
 pos: v.
 definition: 爆炸；激增；爆发
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

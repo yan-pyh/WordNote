@@ -3,7 +3,7 @@ word: profit
 phonetic: /ˈprɒfɪt/
 pos: n./v.
 definition: 利润；收益；获益
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

@@ -3,7 +3,7 @@ word: steady
 phonetic: /ˈstedi/
 pos: adj./v.
 definition: 稳定的；持续的；使稳定
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

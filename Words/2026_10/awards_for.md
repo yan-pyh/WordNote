@@ -3,7 +3,7 @@ word: awards for
 phonetic: /əˈwɔːdz fɔː(r)/
 pos: phr.
 definition: 为…颁发的奖项；…类奖项
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

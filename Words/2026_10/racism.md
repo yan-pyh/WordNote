@@ -3,7 +3,7 @@ word: racism
 phonetic: /ˈreɪsɪzəm/
 pos: n.
 definition: 种族主义；种族歧视
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

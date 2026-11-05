@@ -50,3 +50,4 @@ have an influence on：对…有影响
 &nbsp;
 influencer marketing：网红营销
 例：Brands are investing more in influencer marketing.（品牌正在加大对网红营销的投入。）
+<!--SR:!2026-11-07,3,250-->

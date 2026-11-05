@@ -3,7 +3,7 @@ word: pricey
 phonetic: /ˈpraɪsi/
 pos: adj.
 definition: 昂贵的；价格高的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-25

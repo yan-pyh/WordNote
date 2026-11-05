@@ -49,3 +49,4 @@ have a large following：拥有大量粉丝
 &nbsp;
 gain a following：获得一批追随者
 例：The podcast quickly gained a loyal following.（这档播客很快获得了一批忠实听众。）
+<!--SR:!2026-11-07,2,230-->
