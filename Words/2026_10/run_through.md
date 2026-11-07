@@ -50,3 +50,4 @@ run through sth：贯穿；快速过一遍
 &nbsp;
 a theme runs through：某主题贯穿…
 例：The idea of freedom runs through the novel.（自由这一理念贯穿整部小说。）
+<!--SR:!2026-11-06,1,230-->

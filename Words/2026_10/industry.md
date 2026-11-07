@@ -50,3 +50,4 @@ the music industry：音乐产业
 &nbsp;
 industry standards：行业标准
 例：The product meets industry standards.（该产品符合行业标准。）
+<!--SR:!2026-11-06,1,230-->

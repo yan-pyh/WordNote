@@ -49,3 +49,4 @@ a comedy skit：喜剧短剧
 &nbsp;
 perform a skit：表演短剧
 例：The students performed a short skit in class.（学生们在课堂上表演了一个短剧。）
+<!--SR:!2026-11-06,1,230-->

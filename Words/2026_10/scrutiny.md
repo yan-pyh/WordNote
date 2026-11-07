@@ -50,3 +50,4 @@ under scrutiny：受到审视
 &nbsp;
 come under scrutiny：受到审查
 例：The plan came under scrutiny from lawmakers.（该计划受到了立法者的审查。）
+<!--SR:!2026-11-06,1,230-->

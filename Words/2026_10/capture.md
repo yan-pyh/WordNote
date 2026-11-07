@@ -50,3 +50,4 @@ capture attention/imagination：吸引注意力/想象力
 &nbsp;
 capture the moment：捕捉瞬间
 例：The photo captures the moment perfectly.（这张照片完美捕捉了那个瞬间。）
+<!--SR:!2026-11-06,1,230-->

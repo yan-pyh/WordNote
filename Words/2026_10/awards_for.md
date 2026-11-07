@@ -49,3 +49,4 @@ an award for sth：某项…奖
 &nbsp;
 win an award for：因…获奖
 例：The film won several awards for its design.（这部电影因设计获得了多个奖项。）
+<!--SR:!2026-11-06,1,230-->

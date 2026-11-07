@@ -51,3 +51,4 @@ make a profit：盈利
 &nbsp;
 profit from sth：从…中获益
 例：Some companies profited from the crisis.（一些公司从危机中获益。）
+<!--SR:!2026-11-06,1,230-->

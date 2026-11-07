@@ -50,3 +50,4 @@ promote a product/brand：推广产品/品牌
 &nbsp;
 promote growth：促进增长
 例：The policy is intended to promote economic growth.（该政策旨在促进经济增长。）
+<!--SR:!2026-11-06,1,230-->

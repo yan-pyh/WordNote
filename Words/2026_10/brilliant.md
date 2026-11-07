@@ -50,3 +50,4 @@ a brilliant idea：绝妙的主意
 &nbsp;
 brilliantly：出色地
 例：She handled the difficult situation brilliantly.（她出色地处理了这个困难局面。）
+<!--SR:!2026-11-06,1,230-->

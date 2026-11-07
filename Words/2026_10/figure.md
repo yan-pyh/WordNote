@@ -50,3 +50,4 @@ figures show that：数据显示
 &nbsp;
 figure out：弄清楚；想出
 例：We need to figure out what went wrong.（我们需要弄清楚哪里出了问题。）
+<!--SR:!2026-11-06,1,230-->

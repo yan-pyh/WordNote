@@ -53,3 +53,4 @@ pay rent：付租金
 &nbsp;
 rent a place：租一处房子
 例：We rented a small apartment near the station.（我们在车站附近租了一间小公寓。）
+<!--SR:!2026-11-08,3,250-->

@@ -51,3 +51,4 @@ explode with anger：勃然大怒
 &nbsp;
 the population explodes：人口激增
 例：The city’s population exploded in the 1990s.（这座城市的人口在 20 世纪 90 年代激增。）
+<!--SR:!2026-11-06,1,230-->
