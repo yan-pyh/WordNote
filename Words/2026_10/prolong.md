@@ -44,4 +44,4 @@ prolong life：延长寿命
 &nbsp;
 prolong a process：拖延一个过程
 例：The delay prolonged the process.（延误拖长了这一过程。）
-<!--SR:!2026-11-06,4,190-->
+<!--SR:!2026-11-10,2,170-->

@@ -50,4 +50,4 @@ take out a mortgage：办理抵押贷款
 &nbsp;
 pay off a mortgage：还清房贷
 例：It took them twenty years to pay off the mortgage.（他们花了二十年才还清房贷。）
-<!--SR:!2026-11-07,3,250-->
+<!--SR:!2026-11-15,7,250-->

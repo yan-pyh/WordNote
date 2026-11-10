@@ -44,4 +44,4 @@ vanish from sth：从某处消失
 &nbsp;
 vanish without a trace：消失得无影无踪
 例：The ship vanished without a trace.（那艘船消失得无影无踪。）
-<!--SR:!2026-11-07,2,190-->
+<!--SR:!2026-11-09,1,170-->

@@ -51,4 +51,4 @@ hold down prices：压低价格
 &nbsp;
 hold down a job：保住一份工作
 例：He has held down the same job for years.（他多年来一直保住同一份工作。）
-<!--SR:!2026-11-06,1,130-->
+<!--SR:!2026-11-09,1,130-->

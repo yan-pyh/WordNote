@@ -49,4 +49,4 @@ a new crop of sth：新一批…
 &nbsp;
 crop up：突然出现
 例：New problems kept cropping up.（新问题不断突然出现。）
-<!--SR:!2026-11-07,2,230-->
+<!--SR:!2026-11-13,5,230-->

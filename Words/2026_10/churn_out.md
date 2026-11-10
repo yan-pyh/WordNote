@@ -51,4 +51,4 @@ churn out sth：大量快速地产出某物
 &nbsp;
 churn out prose：大量产出文本
 例：The tool can churn out prose in seconds.（这个工具能在几秒内大量生成文本。）
-<!--SR:!2026-11-08,5,150-->
+<!--SR:!2026-11-15,7,150-->

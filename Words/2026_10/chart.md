@@ -50,4 +50,4 @@ chart the history：梳理历史
 &nbsp;
 chart a course：规划路线
 例：The team charted a new course for the project.（团队为项目规划了新的路线。）
-<!--SR:!2026-11-06,2,170-->
+<!--SR:!2026-11-09,1,150-->

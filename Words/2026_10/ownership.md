@@ -50,4 +50,4 @@ home ownership：房屋所有权
 &nbsp;
 take ownership of：取得…的所有权；主动承担责任
 例：She took ownership of the problem.（她主动承担起解决这个问题的责任。）
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-09,1,210-->

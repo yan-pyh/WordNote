@@ -50,4 +50,4 @@ a pricey home：昂贵的房子
 &nbsp;
 too pricey：太贵
 例：The restaurant is too pricey for us.（这家餐厅对我们来说太贵了。）
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-09,1,210-->

@@ -50,4 +50,4 @@ a wily opponent：狡猾的对手
 &nbsp;
 wily tactics：狡黠的策略
 例：The company used wily tactics to avoid regulation.（这家公司用狡黠的策略规避监管。）
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-09,1,210-->

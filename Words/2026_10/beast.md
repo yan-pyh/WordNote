@@ -49,4 +49,4 @@ a wild beast：野兽
 &nbsp;
 a big beast：巨头；重要而难对付的事物
 例：The company is now a big beast in the tech industry.（这家公司如今已是科技行业的巨头。）
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-10,2,230-->

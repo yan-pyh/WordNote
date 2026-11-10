@@ -50,4 +50,4 @@ leak information：泄露信息
 &nbsp;
 a gas leak：煤气泄漏
 例：The fire was caused by a gas leak.（这场火灾由煤气泄漏引起。）
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-09,1,210-->

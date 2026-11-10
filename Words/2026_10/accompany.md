@@ -50,4 +50,4 @@ be accompanied by：由…陪同；伴随
 &nbsp;
 accompany sb to：陪某人去
 例：She accompanied her friend to the hospital.（她陪朋友去了医院。）
-<!--SR:!2026-11-06,1,230-->
+<!--SR:!2026-11-10,2,230-->

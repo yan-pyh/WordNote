@@ -49,4 +49,4 @@ the outcome of：…的结果
 &nbsp;
 predict the outcome：预测结果
 例：No one can predict the outcome with certainty.（没人能确定地预测结果。）
-<!--SR:!2026-11-07,2,230-->
+<!--SR:!2026-11-13,5,230-->

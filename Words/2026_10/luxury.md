@@ -50,4 +50,4 @@ luxury goods：奢侈品
 &nbsp;
 live in luxury：过奢华生活
 例：They live in luxury in a large villa.（他们住在一栋大别墅里，生活奢华。）
-<!--SR:!2026-11-06,1,210-->
+<!--SR:!2026-11-10,2,210-->

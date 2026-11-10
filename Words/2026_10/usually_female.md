@@ -39,4 +39,4 @@ Influencers—the usually female people behind the most popular accounts on Inst
 用法：
 usually female：通常为女性
 例：Most influencers in this category are usually female.（这一领域的大多数网红通常为女性。）
-<!--SR:!2026-11-08,3,250-->
+<!--SR:!2026-11-15,7,250-->

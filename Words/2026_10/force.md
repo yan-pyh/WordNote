@@ -44,4 +44,4 @@ force sb to do sth：迫使某人做某事
 &nbsp;
 force sth into sth：把某物强行推入某处
 例：He forced the idea into a simple framework.（他强行把这个想法塞进一个简单框架。）
-<!--SR:!2026-11-07,4,210-->
+<!--SR:!2026-11-17,9,210-->
