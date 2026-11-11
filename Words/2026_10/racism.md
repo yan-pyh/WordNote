@@ -50,4 +50,4 @@ combat racism：反对种族主义
 &nbsp;
 institutional racism：制度性种族歧视
 例：The report exposed institutional racism.（这份报告揭露了制度性种族歧视。）
-<!--SR:!2026-11-09,1,210-->
+<!--SR:!2026-11-11,1,190-->

@@ -50,4 +50,4 @@ dismiss sth as：把…视为…而不予理会
 &nbsp;
 dismiss an idea：否定一个想法
 例：Do not dismiss the idea too quickly.（不要这么快就否定这个想法。）
-<!--SR:!2026-11-09,1,190-->
+<!--SR:!2026-11-11,1,170-->

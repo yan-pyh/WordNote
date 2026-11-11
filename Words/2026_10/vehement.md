@@ -50,4 +50,4 @@ a vehement critic：言辞激烈的批评者
 &nbsp;
 vehement opposition：强烈反对
 例：The proposal met with vehement opposition.（该提案遭到了强烈反对。）
-<!--SR:!2026-11-09,1,210-->
+<!--SR:!2026-11-11,1,190-->

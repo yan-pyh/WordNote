@@ -51,4 +51,4 @@ an online scam：网络骗局
 &nbsp;
 be scammed：被骗
 例：He was scammed out of thousands of dollars.（他被骗走了数千美元。）
-<!--SR:!2026-11-09,1,210-->
+<!--SR:!2026-11-11,1,190-->

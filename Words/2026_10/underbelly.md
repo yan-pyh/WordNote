@@ -49,4 +49,4 @@ the underbelly of society：社会阴暗面
 &nbsp;
 the soft underbelly：薄弱环节
 例：The attack targeted the soft underbelly of the system.（攻击瞄准了该体系的薄弱环节。）
-<!--SR:!2026-11-09,1,210-->
+<!--SR:!2026-11-11,1,190-->

@@ -51,4 +51,4 @@ rise by：上升了…
 &nbsp;
 give rise to：引起；导致
 例：The decision gave rise to widespread criticism.（这一决定引起了广泛批评。）
-<!--SR:!2026-11-10,2,230-->
+<!--SR:!2026-11-15,5,230-->

@@ -51,4 +51,4 @@ undergo surgery：接受手术
 &nbsp;
 plastic surgery：整形手术
 例：He denied having plastic surgery.（他否认做过整形手术。）
-<!--SR:!2026-11-09,1,210-->
+<!--SR:!2026-11-12,2,210-->

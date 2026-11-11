@@ -50,4 +50,4 @@ gory details：血腥细节
 &nbsp;
 gory stories：骇人听闻的故事
 例：The newspaper published gory stories about the case.（报纸刊登了关于此案的血腥故事。）
-<!--SR:!2026-11-09,1,190-->
+<!--SR:!2026-11-11,1,170-->

@@ -49,4 +49,4 @@ a celebrity：一位名人
 &nbsp;
 celebrity culture：名人文化
 例：The magazine is full of celebrity culture.（这本杂志充满名人文化。）
-<!--SR:!2026-11-10,2,190-->
+<!--SR:!2026-11-14,4,190-->

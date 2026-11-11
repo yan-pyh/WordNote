@@ -50,4 +50,4 @@ pay a deposit：支付定金；支付首付
 &nbsp;
 make a deposit：存款
 例：She made a deposit at the bank.（她在银行存了款。）
-<!--SR:!2026-11-10,5,230-->
+<!--SR:!2026-11-13,3,210-->

@@ -50,4 +50,4 @@ fill a vacancy：填补职位空缺
 &nbsp;
 job vacancy：职位空缺
 例：The company posted a job vacancy online.（公司在网上发布了一个职位空缺。）
-<!--SR:!2026-11-10,2,150-->
+<!--SR:!2026-11-13,3,150-->

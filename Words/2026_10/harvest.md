@@ -50,4 +50,4 @@ harvest data/stars：收集数据/挖掘明星
 &nbsp;
 harvest crops：收割庄稼
 例：Farmers harvest crops in autumn.（农民在秋天收割庄稼。）
-<!--SR:!2026-11-10,2,210-->
+<!--SR:!2026-11-14,4,210-->

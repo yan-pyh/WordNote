@@ -49,4 +49,4 @@ a property：一处房产
 &nbsp;
 personal property：个人财产
 例：The insurance covers personal property.（该保险涵盖个人财产。）
-<!--SR:!2026-11-09,1,210-->
+<!--SR:!2026-11-11,1,190-->

@@ -50,4 +50,4 @@ a video clip：视频片段
 &nbsp;
 clip sth to sth：把…夹在…上
 例：He clipped the microphone to his shirt.（他把麦克风夹在衬衫上。）
-<!--SR:!2026-11-09,1,210-->
+<!--SR:!2026-11-12,2,210-->

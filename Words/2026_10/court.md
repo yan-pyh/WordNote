@@ -50,4 +50,4 @@ court voters：争取选民
 &nbsp;
 court controversy：招致争议
 例：The remarks courted controversy.（这些言论招致了争议。）
-<!--SR:!2026-11-10,2,170-->
+<!--SR:!2026-11-11,1,150-->

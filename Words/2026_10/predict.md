@@ -51,4 +51,4 @@ predict that：预测…
 &nbsp;
 predict the outcome：预测结果
 例：It is difficult to predict the outcome.（很难预测结果。）
-<!--SR:!2026-11-10,2,230-->
+<!--SR:!2026-11-15,5,230-->
