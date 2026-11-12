@@ -52,4 +52,4 @@ appreciate in value：升值
 &nbsp;
 appreciate sth：欣赏或感激某事
 例：I really appreciate your help.（我非常感激你的帮助。）
-<!--SR:!2026-11-11,3,210-->
+<!--SR:!2026-11-14,2,190-->

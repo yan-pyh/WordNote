@@ -44,4 +44,4 @@ meet the threshold：达到门槛
 &nbsp;
 the threshold for sth：某事物的阈值或门槛
 例：The threshold for entry is very high.（进入门槛非常高。）
-<!--SR:!2026-11-11,3,210-->
+<!--SR:!2026-11-18,6,210-->

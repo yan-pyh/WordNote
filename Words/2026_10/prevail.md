@@ -50,4 +50,4 @@ prevail over：战胜；压倒
 &nbsp;
 the prevailing view：主流观点
 例：The prevailing view is that rates will remain high.（主流观点认为利率将维持高位。）
-<!--SR:!2026-11-11,1,190-->
+<!--SR:!2026-11-13,1,170-->

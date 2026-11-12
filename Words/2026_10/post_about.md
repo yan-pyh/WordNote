@@ -49,4 +49,4 @@ post about sth：发布关于某事的内容
 &nbsp;
 post about sb/sth online：在网上发布关于某人或某事的内容
 例：Fans often post about the singer online.（粉丝经常在网上发布关于这位歌手的内容。）
-<!--SR:!2026-11-12,2,210-->
+<!--SR:!2026-11-16,4,210-->

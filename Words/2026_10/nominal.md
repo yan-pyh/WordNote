@@ -49,4 +49,4 @@ nominal price：名义价格
 &nbsp;
 nominal fee：象征性费用
 例：They charge only a nominal fee.（他们只收取象征性费用。）
-<!--SR:!2026-11-11,1,210-->
+<!--SR:!2026-11-13,1,190-->

@@ -49,4 +49,4 @@ accomplish a task/goal：完成任务、实现目标
 &nbsp;
 a sense of accomplishment：成就感
 例：Finishing the race gave him a sense of accomplishment.（完成比赛让他很有成就感。）
-<!--SR:!2026-11-11,7,190-->
+<!--SR:!2026-11-24,12,190-->

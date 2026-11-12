@@ -50,4 +50,4 @@ be reluctant to do：不愿做
 &nbsp;
 a reluctant seller：不情愿的卖家
 例：The market is full of reluctant sellers.（市场上满是不情愿出售的卖家。）
-<!--SR:!2026-11-11,1,190-->
+<!--SR:!2026-11-13,1,170-->

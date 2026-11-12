@@ -51,4 +51,4 @@ have a good/bad reputation：名声好/坏
 &nbsp;
 damage one’s reputation：损害某人的声誉
 例：The scandal damaged his reputation.（这起丑闻损害了他的声誉。）
-<!--SR:!2026-11-12,2,210-->
+<!--SR:!2026-11-16,4,210-->

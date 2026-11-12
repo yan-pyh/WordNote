@@ -51,4 +51,4 @@ trick sb into doing：骗某人做…
 &nbsp;
 a trick：一个诡计；一个把戏
 例：It was a cheap trick.（那是一个低劣的把戏。）
-<!--SR:!2026-11-12,2,210-->
+<!--SR:!2026-11-16,4,210-->

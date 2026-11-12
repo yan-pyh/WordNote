@@ -49,4 +49,4 @@ a niche market：小众市场
 &nbsp;
 carve out a niche：开辟一片天地
 例：She carved out a niche for herself in design.（她在设计领域为自己开辟了一片天地。）
-<!--SR:!2026-11-12,2,190-->
+<!--SR:!2026-11-16,4,190-->

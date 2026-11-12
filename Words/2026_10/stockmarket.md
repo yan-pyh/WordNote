@@ -49,4 +49,4 @@ invest in the stockmarket：投资股市
 &nbsp;
 stockmarket crash：股市崩盘
 例：The stockmarket crash wiped out many savings.（股市崩盘使许多储蓄化为乌有。）
-<!--SR:!2026-11-12,2,210-->
+<!--SR:!2026-11-16,4,210-->

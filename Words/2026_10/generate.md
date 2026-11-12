@@ -60,4 +60,4 @@ generative AI：生成式人工智能
 &nbsp;
 power generation：发电（尤指电力生产）
 例：Renewable power generation has increased rapidly.（可再生能源发电已迅速增长。）
-<!--SR:!2026-11-12,8,210-->
+<!--SR:!2026-11-29,17,210-->

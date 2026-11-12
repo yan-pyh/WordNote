@@ -50,4 +50,4 @@ be anxious about：为…担忧
 &nbsp;
 be anxious to do：急于做
 例：He was anxious to leave.（他急于离开。）
-<!--SR:!2026-11-12,9,250-->
+<!--SR:!2026-12-05,23,250-->

@@ -51,4 +51,4 @@ prices soar：价格飞涨
 &nbsp;
 soar above：翱翔于…之上
 例：The eagle soared above the valley.（雄鹰在山谷上空翱翔。）
-<!--SR:!2026-11-11,1,190-->
+<!--SR:!2026-11-13,1,170-->

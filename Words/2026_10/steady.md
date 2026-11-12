@@ -50,4 +50,4 @@ a steady rise：持续上升
 &nbsp;
 hold steady：保持稳定
 例：Prices held steady for several months.（价格连续几个月保持稳定。）
-<!--SR:!2026-11-12,2,210-->
+<!--SR:!2026-11-16,4,210-->
