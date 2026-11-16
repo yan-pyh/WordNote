@@ -3,7 +3,7 @@ word: broad
 phonetic: /brɔːd/
 pos: adj.
 definition: 宽广的；广泛的；概括的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-11-01

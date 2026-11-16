@@ -49,4 +49,4 @@ eventually fail：最终失败
 &nbsp;
 eventual outcome：最终结果
 例：No one could predict the eventual outcome.（没有人能预测最终结果。）
-<!--SR:!2026-11-14,12,230-->
+<!--SR:!2026-12-13,27,230-->

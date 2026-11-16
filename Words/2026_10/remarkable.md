@@ -3,7 +3,7 @@ word: remarkable
 phonetic: /rɪˈmɑːkəbl/
 pos: adj.
 definition: 非凡的；显著的；引人注目的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

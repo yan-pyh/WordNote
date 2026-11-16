@@ -3,7 +3,7 @@ word: automate
 phonetic: /ˈɔːtəmeɪt/
 pos: v.
 definition: 使自动化；自动操作
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-11-01

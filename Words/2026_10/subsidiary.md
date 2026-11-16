@@ -3,7 +3,7 @@ word: subsidiary
 phonetic: /səbˈsɪdiəri/
 pos: n./adj.
 definition: 子公司；附属机构；附属的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

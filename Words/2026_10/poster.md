@@ -3,7 +3,7 @@ word: poster
 phonetic: /ˈpəʊstə(r)/
 pos: n.
 definition: 海报；宣传人物；代言人
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

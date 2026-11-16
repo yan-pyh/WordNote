@@ -3,7 +3,7 @@ word: scroll
 phonetic: /skrəʊl/
 pos: v./n.
 definition: 滚动；刷屏；卷轴
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

@@ -52,4 +52,4 @@ exclude sth from：把…排除在…之外
 &nbsp;
 exclude sb：拒绝某人加入
 例：The club excluded women for decades.（这家俱乐部几十年来拒绝女性加入。）
-<!--SR:!2026-11-13,1,170-->
+<!--SR:!2026-11-18,2,170-->

@@ -50,3 +50,4 @@ merge into：并入；合并到
 &nbsp;
 merge A with B：把 A 与 B 合并
 例：The bank merged its local branch with a partner.（该银行把当地分行与合作伙伴合并。）
+<!--SR:!2026-11-19,3,250-->

@@ -51,4 +51,4 @@ prices tumble：价格暴跌
 &nbsp;
 tumble down：跌倒；坍塌
 例：He tumbled down the stairs.（他从楼梯上摔了下来。）
-<!--SR:!2026-11-14,2,190-->
+<!--SR:!2026-11-17,1,170-->

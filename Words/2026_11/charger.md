@@ -3,7 +3,7 @@ word: charger
 phonetic: /ˈtʃɑːdʒə(r)/
 pos: n.
 definition: 充电器；充电桩
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-11-01

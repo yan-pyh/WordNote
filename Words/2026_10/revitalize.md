@@ -3,7 +3,7 @@ word: revitalize
 phonetic: /ˌriːˈvaɪtəlaɪz/
 pos: v.
 definition: 使复兴；振兴；使恢复活力
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

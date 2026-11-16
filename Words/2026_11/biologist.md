@@ -3,7 +3,7 @@ word: biologist
 phonetic: /baɪˈɒlədʒɪst/
 pos: n.
 definition: 生物学家
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-11-01

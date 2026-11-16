@@ -3,7 +3,7 @@ word: sponsor
 phonetic: /ˈspɒnsə(r)/
 pos: n./v.
 definition: 赞助商；赞助；发起
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

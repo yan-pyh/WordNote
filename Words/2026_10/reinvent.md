@@ -3,7 +3,7 @@ word: reinvent
 phonetic: /ˌriːɪnˈvent/
 pos: v.
 definition: 彻底改造；重新发明；重新塑造
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-10-29

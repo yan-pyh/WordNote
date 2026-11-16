@@ -50,4 +50,4 @@ broadcast live：现场直播
 &nbsp;
 a news broadcast：新闻广播
 例：She watched the evening news broadcast.（她观看了晚间新闻广播。）
-<!--SR:!2026-11-13,1,170-->
+<!--SR:!2026-11-18,2,170-->

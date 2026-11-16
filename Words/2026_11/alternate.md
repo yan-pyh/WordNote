@@ -3,7 +3,7 @@ word: alternate
 phonetic: /ˈɔːltəneɪt/
 pos: v./adj.
 definition: 交替；轮流；交替的；替代的；可供选择的
-tags: [vocab, 六级]
+tags: [vocab, 六级, flashcards]
 status: new
 source: 图片导入
 created: 2026-11-01
