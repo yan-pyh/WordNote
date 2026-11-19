@@ -2,7 +2,7 @@
 word: perceive to
 phonetic: /pəˈsiːv tuː/
 pos: phr.
-definition: 认为…是；把…看作
+definition: 认为…是；把…看作；（perception）感知；看法
 tags: [vocab, 六级]
 status: new
 source: 图片导入
@@ -14,12 +14,16 @@ next_review: 2026-11-05
 
 `/pəˈsiːv tuː/` · phr. · #六级
 
-释义：认为…是；把…看作
+释义：认为…是；把…看作；（perception）感知；看法
 
 例句：Given that much of the reason for owning a sports car is for owners to show off what they perceive to be their driving skills, just how big a market will there be for a version where software takes those bragging rights away?
 译文：考虑到拥有跑车的很大一部分原因，就是让车主炫耀他们自认为高超的驾驶技术，那么如果软件夺走这些炫耀资本，这种版本的市场会有多大呢？
 
+补充例句：For a long time there has been this culturally embedded perception that if you go to law school, it will be worth the money.
+补充译文：长期以来，人们有一种根深蒂固的文化观念：如果去读法学院，这笔钱就花得值。
+
 词形变化：
+- perceive (v.)：感知；认为
 - perceive to (phr.)：认为…是
 - perceives to (phr.)：认为…是（第三人称单数）
 - perceived to (phr.)：被认为…是（过去式/过去分词）
@@ -29,6 +33,8 @@ next_review: 2026-11-05
   例：Many people perceive the change to be a risk.（许多人认为这一变化是一种风险。）
 - perceive sth as：把…看作
   例：The public perceives the issue as urgent.（公众认为这个问题很紧迫。）
+- public perception：公众看法
+  例：Public perception of the issue has changed.（公众对这个问题的看法已经改变。）
 
 词根词缀：perceive（感知、认为）+ to（指向某种判断）
 
@@ -40,9 +46,11 @@ perceive to
 Given that much of the reason for owning a sports car is for owners to show off what they perceive to be their driving skills, just how big a market will there be for a version where software takes those bragging rights away?
 ?
 /pəˈsiːv tuː/  phr.
-认为…是；把…看作
+认为…是；把…看作；（perception）感知；看法
 译文：考虑到拥有跑车的很大一部分原因，就是让车主炫耀他们自认为高超的驾驶技术，那么如果软件夺走这些炫耀资本，这种版本的市场会有多大呢？
-词形：perceive to (phr.)：认为…是 / perceives to (phr.)：认为…是（第三人称单数） / perceived to (phr.)：被认为…是（过去式/过去分词）
+补充例句：For a long time there has been this culturally embedded perception that if you go to law school, it will be worth the money.
+补充译文：长期以来，人们有一种根深蒂固的文化观念：如果去读法学院，这笔钱就花得值。
+词形：perceive (v.)：感知；认为 / perceive to (phr.)：认为…是 / perceives to (phr.)：认为…是（第三人称单数） / perceived to (phr.)：被认为…是（过去式/过去分词） / perception (n.)：感知；看法
 &nbsp;
 用法：
 perceive sb/sth to be：认为某人或某物是…
@@ -50,3 +58,6 @@ perceive sb/sth to be：认为某人或某物是…
 &nbsp;
 perceive sth as：把…看作
 例：The public perceives the issue as urgent.（公众认为这个问题很紧迫。）
+&nbsp;
+public perception：公众看法
+例：Public perception of the issue has changed.（公众对这个问题的看法已经改变。）
